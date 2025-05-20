@@ -12,7 +12,7 @@ public class reverse {
             arr[i]=in.nextInt();   
         }
         System.out.println("array="+arr[i]);
-        for(i=0;i<=arr.length-1;i++){
+        for(i=0;i<arr.length-1;i++){
             if(left<right){
             temp=arr[left];
             arr[left]=arr[right];
