@@ -31,12 +31,7 @@ public class union_intersection {
       if(!isduplicate){
         System.out.println(arr2[j]+" ");
       }
-     }
-      
-      
-       
-       
-        
+    }
        
     }
     
