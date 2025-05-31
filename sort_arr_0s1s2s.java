@@ -33,15 +33,12 @@ public class sort_arr_0s1s2s{
                 arr[mid]=arr[high];
                 arr[high]=temp;
                 high--;
-                
-                
             }
-          
        }
         
         System.out.println("  ");
-     System.out.println("sorted arr=");
-       for( int i=0;i<=arr.length-1;i++){
+       System.out.println("sorted arr=");
+      for( int i=0;i<=arr.length-1;i++){
         System.out.println(arr[i]+" ");
        }
     }
