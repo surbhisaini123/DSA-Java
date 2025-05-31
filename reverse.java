@@ -23,7 +23,8 @@ public class reverse {
            
             
         }
-        for(i=0;i<arr.length;i++){
+        System.out.println("reveresd array=");
+        for(i=arr.length-1;i>0;i--){
             //System.out.println("reverse array="+arr[i]);
             System.out.println(arr[i]);
         }
