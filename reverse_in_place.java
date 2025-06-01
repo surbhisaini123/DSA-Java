@@ -9,6 +9,7 @@ public class reverse_in_place{
         for(int i=0;i<arr.length;i++){
             arr[i]=in.nextInt();
         }
+        in.close();
 
         //Swap the first element to last ------> 
         int first=0,last=0;
