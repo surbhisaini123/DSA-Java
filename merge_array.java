@@ -3,7 +3,7 @@ import java.util.Collections;
 
 
 
-public class sorted_array { 
+public class merge_array { 
     static void MergeTwoArray(){
     
     ArrayList <Integer>arr1=new ArrayList<>();

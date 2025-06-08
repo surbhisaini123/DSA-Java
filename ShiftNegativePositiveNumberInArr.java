@@ -11,6 +11,7 @@ public class ShiftNegativePositiveNumberInArr {
         for(int i=0;i<arr.length;i++){
             arr[i]=in.nextInt();
         }
+        
         int first=0,last=0,temp;
          for(first=0;first<arr.length;first++){
             if(arr[first]<0){
