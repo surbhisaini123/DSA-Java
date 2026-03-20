@@ -1,4 +1,4 @@
-package Java_apnclg;
+package Java_apnaclg;
 
 import java.util.Scanner;
 
@@ -53,6 +53,8 @@ public class Array {
         }
 
     }
+     sc.close();
+    // /sds 
    
 
 
