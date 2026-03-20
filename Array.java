@@ -54,7 +54,7 @@ public class Array {
 
     }
      sc.close();
-    // /sds 
+    // hjg
    
 
 
